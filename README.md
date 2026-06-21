@@ -10,7 +10,6 @@
 <br><br>
 
 - 🎓 3rd Year Computer Science Engineering Student
-- 🚀 Currently building **EduSeatMap**, an Examination Seat Allotment System that automates seating arrangements, faculty allocation, and exam management.
 - 🌱 Continuously learning and working with modern technologies, frameworks, databases, and tools.
 - 🏆 Hackathon Enthusiast who enjoys solving real-world problems through technology.
 - 🔭 Interested in Full-Stack Development, Artificial Intelligence, Cloud Computing, and Open Source.
@@ -152,7 +151,7 @@
 <br><br>
 
 <p align="center">
-<a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+<a href="https://www.linkedin.com/in/milan-raj-5a6a9928b" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/your-instagram-handle" target="_blank">
