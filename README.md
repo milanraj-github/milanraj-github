@@ -1,8 +1,8 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr><td><img src="./assets/banner_top.png" width="100%" alt=""/></td></tr>
-<tr><td><img src="./assets/banner_name_animated.gif" width="100%" alt="MILANRAJ!"/></td></tr>
-<tr><td><img src="./assets/banner_bottom.png" width="100%" alt=""/></td></tr>
-</table>
+<div align="center">
+
+<img src="./assets/hero_banner.gif" width="100%" alt="Hey, I'm MILANRAJ!"/>
+
+</div>
 
 <br>
 
