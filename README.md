@@ -1,14 +1,13 @@
-<div align="center">
-
-<img src="./assets/banner_top.png" alt="" width="100%" style="display:block;" />
-<img src="./assets/banner_name_animated.gif" alt="MILANRAJ!" width="100%" style="display:block;" />
-<img src="./assets/banner_bottom.png" alt="" width="100%" style="display:block;" />
-
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td><img src="./assets/banner_top.png" width="100%" alt=""/></td></tr>
+<tr><td><img src="./assets/banner_name_animated.gif" width="100%" alt="MILANRAJ!"/></td></tr>
+<tr><td><img src="./assets/banner_bottom.png" width="100%" alt=""/></td></tr>
+</table>
 
 <br>
 
-## `>_` About Me
+<img src="./assets/header_about.png" width="100%" alt="About Me"/>
+<br><br>
 
 - 🎓 3rd Year Computer Science Engineering Student
 - 🚀 Currently building **EduSeatMap**, an Examination Seat Allotment System that automates seating arrangements, faculty allocation, and exam management.
@@ -19,7 +18,8 @@
 
 <br>
 
-## `>_` Featured Projects
+<img src="./assets/header_projects.png" width="100%" alt="Featured Projects"/>
+<br><br>
 
 <table>
 <tr>
@@ -64,7 +64,8 @@
 
 <br>
 
-## `>_` Tech Stack
+<img src="./assets/header_techstack.png" width="100%" alt="Tech Stack"/>
+<br><br>
 
 **Languages**
 <p>
@@ -100,7 +101,8 @@
 
 <br>
 
-## `>_` GitHub Stats
+<img src="./assets/header_stats.png" width="100%" alt="GitHub Stats"/>
+<br><br>
 
 <table>
 <tr>
@@ -126,7 +128,8 @@
 
 <br>
 
-## `>_` GitHub Trophies
+<img src="./assets/header_trophies.png" width="100%" alt="GitHub Trophies"/>
+<br><br>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=milanraj-github&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
@@ -134,7 +137,8 @@
 
 <br>
 
-## `>_` Contribution Snake
+<img src="./assets/header_snake.png" width="100%" alt="Contribution Snake"/>
+<br><br>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/milanraj-github/milanraj-github/output/github-contribution-grid-snake-dark.svg" />
@@ -144,7 +148,8 @@
 
 <br>
 
-## `>_` Let's Connect
+<img src="./assets/header_connect.png" width="100%" alt="Let's Connect"/>
+<br><br>
 
 <p align="center">
 <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
