@@ -9,7 +9,7 @@
 <img src="./assets/header_about.png" width="100%" alt="About Me"/>
 <br><br>
 
-- 🎓 3rd Year Computer Science Engineering Student
+- 🎓 4th Year Computer Science Engineering Student
 - 🌱 Continuously learning and working with modern technologies, frameworks, databases, and tools.
 - 🏆 Hackathon Enthusiast who enjoys solving real-world problems through technology.
 - 🔭 Interested in Full-Stack Development, Artificial Intelligence, Cloud Computing, and Open Source.
